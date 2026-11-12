@@ -1,0 +1,28 @@
+ARQUIVO DE AJUDA — PET FELIZ (FASE 1)
+
+1. COMO ABRIR O SISTEMA
+Abra o arquivo index.html em um navegador (Google Chrome, Microsoft Edge ou Firefox).
+Para publicar, envie todos os arquivos HTML deste projeto para um repositório do GitHub
+e habilite o GitHub Pages nas configurações do repositório.
+
+2. PÁGINAS E FUNCIONALIDADES
+- index.html: página inicial, apresentação do Pet Feliz e links para as demais páginas.
+- produtos.html: apresenta seis produtos, organizados em três categorias (rações,
+  brinquedos e acessórios), cada um com imagem, descrição e valor.
+- servicos.html: apresenta quatro serviços, com descrição, valor e informação sobre
+  disponibilidade de tele-busca.
+- sobre.html: apresenta a proposta do petshop e informações fictícias de contato.
+
+3. NAVEGAÇÃO
+O menu no cabeçalho e os links no rodapé permitem navegar entre as páginas.
+As imagens dos produtos e da página inicial são carregadas de endereços externos,
+portanto dependem de conexão com a internet.
+
+4. OBSERVAÇÕES DA FASE 1
+O projeto utiliza HTML semântico. Não foram utilizados CSS, Bootstrap ou JavaScript,
+conforme a orientação da Fase 1. Os preços, endereço, telefone e e-mail são fictícios
+e foram incluídos somente para fins acadêmicos.
+
+5. AUTORIA
+Mateus Lemos da Rocha Azevedo
+Disciplina: Fundamentos de Sistemas Web — Fase 1
